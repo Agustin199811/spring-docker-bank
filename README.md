@@ -18,7 +18,8 @@ This project is currently in development and is being worked on for version 1.0.
 ## Installation and Setup
 
 1. Clone this repository to your local machine using the following command:
-    + git clone https://github.com/Agustin199811/spring-docker-bank.git
+    ```bash
+    git clone https://github.com/Agustin199811/spring-docker-bank.git
 
 2. Import the project into your preferred IDE (e.g., IntelliJ IDEA or Eclipse) as a Maven project.
 
@@ -41,6 +42,16 @@ The Accounts REST API exposes the following endpoints:
 - `PUT /api/accounts/{id}/withdraw`: Withdraw money from an account.
 
 You can use tools such as Postman or cURL to send HTTP requests to these endpoints.
+
+## Deploy on Render
+
+Switch to the `deploy` branch to upload to the Render cloud provider
+
+To deploy the application on the Render cloud provider, follow these steps:
+
+1. **Switch to the `deploy` branch**:
+   ```bash
+   git checkout deploy
 
 ## Contribution
 
