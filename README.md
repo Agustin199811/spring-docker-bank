@@ -52,6 +52,20 @@ To deploy the application on the Render cloud provider, follow these steps:
 1. **Switch to the `deploy` branch**:
    ```bash
    git checkout deploy
+## AWS with EC2
+![image](https://github.com/Agustin199811/spring-docker-bank/assets/91472854/e7f4c4a8-ceb4-4e97-990f-e3403fe9c2c3)
+
+![image](https://github.com/Agustin199811/spring-docker-bank/assets/91472854/4e4e949f-773e-4be1-9b54-6c3eb2c6ffe7)
+
+![image](https://github.com/Agustin199811/spring-docker-bank/assets/91472854/502466f0-f051-4a05-bbcb-1ff655a6e69b)
+
+![image](https://github.com/Agustin199811/spring-docker-bank/assets/91472854/c17a72eb-09f9-4197-ade6-62cb063c9f6e)
+
+![image](https://github.com/Agustin199811/spring-docker-bank/assets/91472854/7bf68f67-4308-4dfa-b01c-b6e611a471d5)
+
+![image](https://github.com/Agustin199811/spring-docker-bank/assets/91472854/543265b7-24d0-485f-b84a-21fe52203118)
+
+![image](https://github.com/Agustin199811/spring-docker-bank/assets/91472854/8e9572f8-5431-4fde-9434-be084f7880c6)
 
 ## Contribution
 
